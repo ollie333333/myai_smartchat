@@ -1,0 +1,9 @@
+{
+    "hello": ["Hi there!", "Hello! How can I help you?"],
+    "hi": ["Hey!", "Hello!"],
+    "how are you": ["I'm good, thanks!", "Doing well!"],
+    "what is your name": ["I am your AI assistant.", "Call me AI Displayer!"],
+    "bye": ["Goodbye!", "See you later!"],
+    "help me": ["Sure, what do you need help with?", "I'm here to help!"],
+    "what can you do": ["I can chat, answer questions, and search the web for you!", "I can talk, answer questions, and help with info!"]
+}

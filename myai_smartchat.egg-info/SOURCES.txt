@@ -1,0 +1,12 @@
+pyproject.toml
+setup.py
+myai_smartchat/__init__.py
+myai_smartchat/chatbot.py
+myai_smartchat/setup.py
+myai_smartchat.egg-info/PKG-INFO
+myai_smartchat.egg-info/SOURCES.txt
+myai_smartchat.egg-info/dependency_links.txt
+myai_smartchat.egg-info/requires.txt
+myai_smartchat.egg-info/top_level.txt
+myai_smartchat/myai_smartchat/__init__.py
+myai_smartchat/myai_smartchat/chatbot.py

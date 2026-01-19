@@ -1,0 +1,8 @@
+setup.py
+myai_smartchat.egg-info/PKG-INFO
+myai_smartchat.egg-info/SOURCES.txt
+myai_smartchat.egg-info/dependency_links.txt
+myai_smartchat.egg-info/requires.txt
+myai_smartchat.egg-info/top_level.txt
+myai_smartchatbot/__init__.py
+myai_smartchatbot/chatbot.py

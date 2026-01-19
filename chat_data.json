@@ -1,0 +1,5 @@
+{
+    "hello": ["Hi there!", "Hello! How can I help you?"],
+    "bye": ["Goodbye!", "See you later!"],
+    "how are you": ["I'm good, thanks!", "Doing well!"]
+}
