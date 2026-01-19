@@ -1,5 +1,10 @@
-{
-    "hello": ["Hi there!", "Hello! How can I help you?"],
-    "bye": ["Goodbye!", "See you later!"],
-    "how are you": ["I'm good, thanks!", "Doing well!"]
-}
+[
+  {"question": "hi", "answer": "Hello! How can I help you?"},
+  {"question": "hello", "answer": "Hi there! What can I do for you?"},
+  {"question": "how are you", "answer": "I'm doing great, thanks!"},
+  {"question": "what is your name", "answer": "I'm your smart Python chatbot."},
+  {"question": "bye", "answer": "Goodbye! Have a nice day!"},
+  {"question": "thank you", "answer": "You're welcome!"},
+  {"question": "who made you", "answer": "I was created by Ollie."},
+  {"question": "what can you do", "answer": "I can chat with you, answer questions, and help with Python!"}
+]
